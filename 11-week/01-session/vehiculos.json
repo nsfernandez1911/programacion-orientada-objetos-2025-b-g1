@@ -1,0 +1,58 @@
+[
+  {
+    "tipo": "Auto",
+    "id": 340,
+    "nombre": "mazda",
+    "placa": "cgq209",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": 1
+  },
+  {
+    "tipo": "Camion",
+    "id": 1,
+    "nombre": "mazda",
+    "placa": "iwk 494",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": null
+  },
+  {
+    "tipo": "Moto",
+    "id": 2,
+    "nombre": "yamaha",
+    "placa": "123msl",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": null
+  },
+  {
+    "tipo": "Van",
+    "id": 4,
+    "nombre": "foton",
+    "placa": "msl40",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": null
+  },
+  {
+    "tipo": "Camion",
+    "id": 3,
+    "nombre": "foton",
+    "placa": "kla123",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": null
+  },
+  {
+    "tipo": "Auto",
+    "id": 123,
+    "nombre": "sandero",
+    "placa": "msl456",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": 1234
+  },
+  {
+    "tipo": "Auto",
+    "id": 123456789,
+    "nombre": "renault",
+    "placa": "klt123",
+    "ultima_manten": "2025-10-11",
+    "conductor_id": 12345678910
+  }
+]

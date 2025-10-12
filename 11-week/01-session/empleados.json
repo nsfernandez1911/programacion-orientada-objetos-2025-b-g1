@@ -1,0 +1,40 @@
+[
+  {
+    "tipo": "Conductor",
+    "id": 1,
+    "nombre": "David",
+    "disponible": true,
+    "licencia": "B",
+    "vehiculo_asignado": 340
+  },
+  {
+    "tipo": "Mecanico",
+    "id": 2,
+    "nombre": "Nicolas",
+    "disponible": true,
+    "especialidad": "soplete"
+  },
+  {
+    "tipo": "Conductor",
+    "id": 1234,
+    "nombre": "ramiro",
+    "disponible": true,
+    "licencia": "C",
+    "vehiculo_asignado": 123
+  },
+  {
+    "tipo": "Conductor",
+    "id": 12345678910,
+    "nombre": "jaime",
+    "disponible": true,
+    "licencia": "C",
+    "vehiculo_asignado": 123456789
+  },
+  {
+    "tipo": "Mecanico",
+    "id": 4321,
+    "nombre": "raul",
+    "disponible": true,
+    "especialidad": "montallantas"
+  }
+]
